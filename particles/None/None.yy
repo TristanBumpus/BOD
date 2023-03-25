@@ -1,0 +1,21 @@
+{
+  "resourceType": "GMParticleSystem",
+  "resourceVersion": "1.0",
+  "name": "None",
+  "backdropHeight": 768,
+  "backdropImageOpacity": 0.5,
+  "backdropImagePath": "",
+  "backdropWidth": 1366,
+  "backdropXOffset": 0.0,
+  "backdropYOffset": 0.0,
+  "drawOrder": 0,
+  "emitters": [],
+  "parent": {
+    "name": "Particals",
+    "path": "folders/Shaders/Particals.yy",
+  },
+  "showBackdrop": true,
+  "showBackdropImage": false,
+  "xorigin": 0,
+  "yorigin": 0,
+}

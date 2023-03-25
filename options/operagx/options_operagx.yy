@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/54b89588-72ce-46d3-bc7c-de7eaf0298cc/edit",
+  "option_operagx_game_name": "Balls of  The Duck",
+  "option_operagx_guid": "54b89588-72ce-46d3-bc7c-de7eaf0298cc",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": false,
+  "option_operagx_next_version": "0.0.0.62",
+  "option_operagx_publicShareUrl": "https://gx.games/games/fjeseg/balls-of-the-duck/",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "12ff8c41-6c62-4362-8a29-4fb1d1b6a75a",
+  "option_operagx_team_name": "t1yu studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.61",
+}

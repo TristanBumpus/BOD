@@ -1,0 +1,1 @@
+canLoot = true
